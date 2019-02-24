@@ -1,0 +1,15 @@
+html{
+	margin: 0;
+	height: 100%;
+}
+
+body{
+	/*background-image: url('../images/matrix3.gif');*/
+	background-size: cover;
+	/*background-color: black;*/
+	margin: 0;
+	height: 100%;
+	display: flex;
+	flex-direction: column;
+	justify-content: space-around;
+}
